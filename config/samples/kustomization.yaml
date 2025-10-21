@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- cost_v1_costquota.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples
